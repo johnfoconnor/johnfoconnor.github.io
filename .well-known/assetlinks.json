@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.joconnor.android.WordHelper2",
+    "sha256_cert_fingerprints":
+    ["FB:29:77:D3:95:1F:9C:89:6A:78:71:33:4F:39:4B:B9:74:05:7B:9A:D0:CF:C2:3E:71:F1:8C:C0:58:24:49:68"]
+  }
+}]
